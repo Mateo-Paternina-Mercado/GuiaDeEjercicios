@@ -14,5 +14,5 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y 
 3. Termina con un enfriamiento y estiramientos.
 
 ## Consejos
-- Mantén una hidratación adecuada.
+- Mantén una hidratación adecuada. 
 - Escoge un ritmo que puedas mantener.
